@@ -22,7 +22,7 @@ Aqui apresento meus projetos nas liguagens que estou aprendendo, inicialmente de
 
 **Projeto 4**
 
-[Jogo H-Rescue](https://lgonlineworker.github.io/H-Rescue/)
+[Jogo H-Rescue](https://lgonlineworker.github.io/H-rescue/)
 
 `Um jogo de resgate de Helicóptero, onde você precisa salvar quantos amigos conseguir`
 
