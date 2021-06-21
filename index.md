@@ -18,8 +18,13 @@ Aqui apresento meus projetos nas liguagens que estou aprendendo, inicialmente de
 
 [Jogo da Cobrinha](https://lgonlineworker.github.io/snakegame/)
 
-`Um jogo da cobrinha criado com Canvas`
+`Um jogo da cobrinha criado com Canvas. É possível escolher entre 3 níveis para jogar e os níveis vão aumentando de dificuldade progressivamente `
 
+**Projeto 4**
+
+[Jogo H-Rescue](https://lgonlineworker.github.io/H-Rescue/)
+
+`Um jogo de resgate de Helicóptero, onde você precisa salvar quantos amigos conseguir`
 
 
 ### Comentários e Sugestões
